@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     464151498039375873       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Title ng Project"      # Title ng Project
+  title:        "Tiny Tapeout Template Copy_Binago Copy"      # Title ng Project
   author:       "Edwin D. Lirio Jr."      # Edwin D. Lirio Jr.
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "none"      # none
